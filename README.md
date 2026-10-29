@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sandy 👋
 
-<!--
-**monxx-ie/monxx-ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Applications student at MSU-IIT.
 
-Here are some ideas to get you started:
+## About me
+4th-year BS Computer Applications student at MSU-IIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Embedded systems projects with FreeRTOS on the RT-Spark board
+- A thesis on a real-time CO2 monitoring system
+
+## Tech & tools
+- C/C++, FreeRTOS, PlatformIO, MATLAB, Git and GitHub
+
+## Let's connect
+- GitHub: [@monxx-ie](https://github.com/monxx-ie)
